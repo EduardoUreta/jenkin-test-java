@@ -13,6 +13,7 @@ public class MultiplicacionTest {
     @BeforeMethod
     public void setUp() {
         result = 0;
+        System.out.println("Ejecutando Test:");
     }
 
     @Test
