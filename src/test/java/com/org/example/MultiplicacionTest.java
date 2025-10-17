@@ -26,6 +26,7 @@ public class MultiplicacionTest {
     public void TestMultiplicarFail() {
         result = Multiplicacion.multiplicar(5, 3);
         Assert.assertEquals(result, 20, "El resultado es 20");
+        System.out.println("xD");
     }
 
 }
