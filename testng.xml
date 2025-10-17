@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="CalculosSuites">
+    <test name="CalculosTests">
+        <classes>
+            <class name="com.example.MultiplicacionTest"></class>
+            <class name="com.example.SumaTest"></class>
+        </classes>
+    </test>
+</suite>

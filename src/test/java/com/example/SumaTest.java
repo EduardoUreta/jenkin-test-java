@@ -1,4 +1,4 @@
-package com.org.example;
+package com.example;
 
 import org.example.Suma;
 import org.testng.Assert;

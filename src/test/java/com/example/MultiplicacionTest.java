@@ -1,4 +1,4 @@
-package com.org.example;
+package com.example;
 
 import org.example.Multiplicacion;
 import org.testng.Assert;
