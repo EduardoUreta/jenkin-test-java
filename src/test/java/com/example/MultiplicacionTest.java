@@ -22,11 +22,11 @@ public class MultiplicacionTest {
         Assert.assertEquals(result, 15, "El resultado es 15");
     }
 
-    @Test
+    /** @Test
     public void TestMultiplicarFail() {
         result = Multiplicacion.multiplicar(5, 3);
         Assert.assertEquals(result, 20, "El resultado es 20");
         System.out.println("xD");
-    }
+    } */
 
 }

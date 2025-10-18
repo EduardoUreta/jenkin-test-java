@@ -21,9 +21,9 @@ public class SumaTest {
         Assert.assertEquals(result, 8, "La suma debería ser 8");
     }
 
-    @Test
+    /** @Test
     public void testSumaFail() {
         result = Suma.suma(5, 3);
         Assert.assertEquals(result, 2, "La suma debería ser 8");
-    }
+    } */
 }
